@@ -1,0 +1,187 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body style="background-color:powderblue;">
+
+	<div class="container">
+	<header>
+		<h1 id="name">Azhar Yusuf Hashmi</h1>
+		
+		<div id="qualification">
+		
+			<span class="title">B.Tech Computer Engineer </span>
+			<br>
+			<span <br><a href="https://www.linkedin.com/in/azhar-hashmi-074a77206">Azhar Hashmi|Linkdin</a></span>
+			<script src="https://tryhackme.com/badge/704398"></script>
+		
+		</div>
+		
+		<div class="contact">
+			<div class="email">azharmohammedykhashmi@gmail.com</div>
+		</div>
+		
+	</header>
+	
+	<div class="content" role=main>
+	
+		<section id="Technical Skills">
+			<h2 class="title"><u>Technical Skills</u></h2>
+			<div class="description">
+				<p>
+				    •	<b>Tools</b>: MATLAB, NI Multisim, SCADA, Burpsuite, Nmap, Kali Linux<br>
+•	<b>Certifications</b>: Hardware & Network Specialist (Aptech) , Certified Automation Engineer (CAE)
+<br>•	<b>Languages</b>: C , C++ , JAVA , PYTHON, SHELL, HTML.
+
+
+				</p>			
+			</div> 
+		</section>
+		
+		
+		<section id="Education">
+			<h2 class="title"><u>Education</u></h2>
+			<div class="description">
+				
+				<table>
+					<tr>
+						<th>Qualification</th>
+						<th>GPA/Percentage</th>
+						<th>Year</th>
+						<th>Institute</th>
+						
+					</tr>
+					
+					<!-- row1-->
+					<tr>
+						<td>B.Tech in Computer Engineering Spl:Information System </td>
+						<td></td>
+						<td>2022</td>
+						<td>Ajeenkya D.Y Patil University</td>
+						
+					</tr>
+					
+					<tr> <!-- row2 -->
+						<td>Diploma in Electronics & Telecommunication</td>
+						<td>57.14</td>
+						<td>2018</td>
+						<td>Brahma Valley Polytechnic(MSBTE)</td>
+					</tr>					
+					<tr> <!-- row3 -->
+						<td>10<sup>th</sup> (S.S.C)</td>
+						<td>57.38</td>
+						<td>2009</td>
+						<td>Nirmala Convent High School</td>
+					</tr>			
+				</table>
+			
+			
+			</div> 
+		</section>
+			
+		<section id="professional experience">
+			<h2 class="title"><u>Professional Experience</u></h2>
+			<div class="description">
+				
+				
+				<section class="Security Researcher">
+					<h3 class="title">Security Researcher</h3>
+					<div class="meta">
+						<span class="field"><b>Hack-X Security</b></span> <br><span class="date"><i>Jul 2021 - Present</i></span></br>
+					</div>
+					<p class="description">Got hands-on experience on penetration testing by using different tools like burpsuite,wappalyzer,shell scripting,kali linux,sqlnmap.learned about differnt firewalls and networking protocol,red teaming and blue teaming,web-app firewalls, designing and performing network analysis</p>
+				</section> 
+				
+				
+				<section class="project">
+					<h3 class="title">Automation Engineer</h3>
+					<div class="meta">
+						<span class="field"><b>Teknocrat Academy of Automation & Control Technology</b></span> 
+						<br><span class="date"><i>Sep 2015 - Nov 2015</i></span></br>
+					</div>
+					<p class="description">Completed training for Industrial Electrical Safety, Electrical Wiring, Electrical Automation,
+Electronic Automation Industrial Motors, AC Drives, Industrial Hydraulics and Pneumatics
+and have hands-on experience on PLC, SCADA, HMI,Siemens SINAMICS V20, RSlogix, Oracle Virtual Machine</p>
+				</section> 
+<section id="Project Experience">
+			<h2 class="title"><u>Project Experience</u></h2>
+			<div class="description">
+
+				
+				<section class="project">
+					<h3 class="title">ZIGBEE Based Passport Verification System</h3>
+					
+					<p class="description">The main aim of the project was to design innovative hardware and software which deals with
+passport authority management. The purpose of the project was to simplify the job of airport security
+and to have flawless passport verification system. </p>
+				</section> 
+				<section class="project">
+					<h3 class="title">Arduino Smartphone Bluetooth App Controlled Servo Motor</h3>
+					
+					<p class="description">The intention of this project was to demonstrate how IoT works, it is open source and has extensible software,
+easy to program compared to previous microcontrollers. Designed the Android app using MIT App Inventor </p>
+				</section>
+				
+				</div> 
+		</section>	
+	
+
+		
+		
+			<section id="Seminars & Workshops">
+			<h2 class="title"><u>Seminars & Workshops</u></h2>
+			<div class="description">
+			    	<ol>
+			          <li>Certified Ethical Hacking Expert (Level 1) at Techfest IIT Bombay</li>
+			    	  <li>Designing Android app for Embedded System (IoT) at Sandip Foundation, Nashik</li>
+			    	  <li>Paper Presentation on Contact Tracing Approaches for Controlling COVID-19 Pandemic.</li>
+                      </ol>
+
+		</div> 
+		</section>	
+		
+		<section id="Achievements">
+			<h2 class="title"><u>Achievements</u></h2>
+			<div class="description">
+			    	<ol>
+			          <li>NPTEL Swayam Course on Digital Circuits.</li>
+			    	  <li>AI using MATLAB.</li>
+			    	  <li>Secured 10<sup>th </sup>rank in global Cisco CyberOps Quiz 2021 </li>
+			    	  <li> <a href="https://tryhackme.com/AzharH/badges/world-wide-web">Completed How the Web Works Module </a></li>
+                      </ol>
+
+		</div> 
+		</section>	
+		
+			<section id="Hobbies">
+			<h2 class="title"><u>Hobbies</u></h2>
+			<div class="description">
+			    <p><i>Reading, Gaming, Swimming</i></p>
+		</div> 
+		</section>
+	
+	
+	<section id="Languages">
+			<h2 class="title"><u>Languages</u></h2>
+			<div class="description">
+			    <p><i>English, Hindi, Marathi</i></p>
+			    	</div> 
+		</section>
+		
+	
+	
+	
+	</div> 
+	
+
+	
+	
+	
+	</div> 
+	
+</body>
+</html>
